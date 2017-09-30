@@ -1,4 +1,4 @@
-A ideia desse repositório é portar ou iniciar discussões de dúvidas/problemas nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
+A ideia desse repositório é portar ou iniciar discussões de dúvidas/problemas nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas no grupo.
 
 O objetivo é unificar todas as discussões em um só local e o Github foi o escolhido para isso.
 
