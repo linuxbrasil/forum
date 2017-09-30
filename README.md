@@ -75,7 +75,9 @@ Todas as issues devem ser abertas e respondidas em pt-br.
 Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
 **Extra**
+
 No Telegram [Grupo Linux](https://goo.gl/KQYqhN) que breve será integrado com o **Github**, dessa forma você sempre saberá quando alguém postou a **issue**.
 
 **Licença**
-MIT Linux Brasil
+
+[MIT](https://github.com/linuxbrasil/forum/blob/master/LICENSE) Linux Brasil
