@@ -28,7 +28,6 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
  - Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
  - Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
  - Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
- - Quando criar uma Issue?
 
 **Quando criar uma issue?**
 
@@ -40,7 +39,7 @@ O ideal é que antes de criar uma dúvida você tente resolver o problema sozinh
 
 Pergunte sobre:
 
- - Como resolver um determinado problema ex: 
+ - Como resolver um determinado problema ex: Como instalar corretamente o driver da NVIDIA corretamente?
  - Como executar uma determinada tarefa ex: Como agendar uma tarefa no crontab?
 
 Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
